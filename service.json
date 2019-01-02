@@ -1,11 +1,11 @@
 {
-  "cluster": {  
-    "id": "QmRZ2akNoyeerxFdHZU8AVUfBkaAmqeXvkeShVsDVmBz4V",
-    "peername": "LAPTOP-6QU7RMTR",
-    "private_key": "CAASqAkwggSkAgEAAoIBAQCqEepAOsT3BZjk3bAIuX9hTW8gmBQdz+2oit73g0f8aOE4pkqluTvxbVHqLj4NF5BnfEFInV4QnInbsIRkOpPn8f2upGSDhKHrwYLBlymjmbRpW5j0Wo5bVmtlk4Du5vO0C8kRkxFFTdnVkGjrDmD5aYjM2KWDhssKmGS6sVDa5j00SA6YHhpFl+Q70D1gzuvi1gmSZYpcMo3i5oONsYds0ELttgdVOwfkX4cKBAcxEFXDrFECZw4BN1okG40KOu/4XIDxJJBNvZLAMOGo/L/eUtY+ELgx+3J5170mfJjdJXRAs3/pQgSh/+jBswdolMzEeRA1SES1Noe4hJB4Y8HfAgMBAAECggEADVH74+32cVaJ5BsM55IHzQowkv/2S2N2vMWrsv0gTT+1rCcyH4rDjCRAzzOx/nqC/+f2gQZ6UJjCH2fS5rrDzN3iPaR4juh7eiic4ibBxyOJwtq+vxy8m6DIJpuH9K44Fjj6FZtMNf5j+lsmLIriw4Ylhc3OIOAU1Q6cjRbIO2y+WithW3tYNk5/QA/K+otYSAe0J5iFkf7fGJEiFYp1L0yzjTS5jleHeA+khST+S6It/mdDWUDGAdKiGfsnGuFXpdsaYNFdO9Av2GcShqsQMCdXb06g6qHbW0M3JoBnaKeEA2hRMUSQ8OGWVEjZqyECjtzF/VakaaMZGrNraqLTKQKBgQDWHfaT2BKqGa00uNJ5/in0LySzUNUCbMQ+ZaB02X6p+Y0ggq65X4K02S+gDn6QTK+wLLmUBhBCgSwA1lxRRM2um+LZbG70554Bt3ZZ9cZGWgsPeYe5VaI0R+v9nCRvRZs7/zsOnTBSH7Pq4cd9qiFhSY5lBNJPCwdTohmhxQhzRQKBgQDLVkTvXGmdRkOuiUXtj7a7L9QKImjsWryB47O/Eog2SWyWLcUvL0UGzsjvRahN0Kdix7YnihK0bc8BfvWXVkleugzRqlOnNcZo9NVQzWqzAoiIWAHtZF1VR8lqK9tItcRWu3G6yAQ4mJ0gC1nPd8vcZloxZJjInX23kFT7dyXA0wKBgGCtYMN6gVrqgwlWFjrc5uaJTsHkUnlo0Ob3jg6UkZt/wRgXyXqLxIGRuu5C/SR8a6tZVmWeo0LT/iFWqJJNRa18V14ilqrf1bkitD6EOYVUbMAM+JpXLwj6HHUDRnQzcpcRdAHyOXorNFpunVuBMNczlibImYj1CtbZT0d6pokdAoGBAJ1Uyg//DEVB+dqRosbW3UfnEQUqbM78wkEqg4kDeNuwYlGtZpZE1/8Vf0oMNtbG7M00xA/B+QkcsgBxUOvhOvINuR990C5gIH5Ter6DwtxxyFze49bgQota+VCqUIjpA9ssPCqO2x1DkMgboEk0Y0vM8lqngMQxf/XJuse8AD07AoGBAMK6LW1fyL+xWn+/WgQjwSOyuk5RjjYynwOo3cyzXECeh0etiOs4eeDoqqyIPX3lQOXzQ2fmmsogsKN2eeUW/1yZEue4G1A4A9t/Khkf8v1FC0HxVKAfOhjB0ep6ZetgjdZYiWWj5ofeQyio3SJnrtgqPoskj3+jJTB2Oht/COaa",
+  "cluster": {
+    "id": "QmS1Wm2aA1kdnSKvxCiSRSFtD2wNmWib1skeU9k8zLQ2MC",
+    "peername": "tbcdev",
+    "private_key": "CAASqAkwggSkAgEAAoIBAQDZMSyeP0ZN6FBNB2Im5trkDdXfYf0zeXU8TRjJdRiyX/5E7Ri41ThmtMXTETBQuBhXCDXsrSNUotCUJwz6AczSHUdwAo7TKFMfTodUsIaojMFS7U8g0tm7I1mBqIops5upTdhusHg1dpa9BBcm3M8PUuiodbOaqa4D1QCAZK6WLsv147HWg3wYGZNnNUi/BzC4v5kAcvryPeQbQPyPai/kZM17q4eFQNRIdwshU+3CuVn5Ut+uxGDLkw2B4nw6vgaAw1hdOb85F1nwf/7ENQ25nv86ll1vU8UJYs4jBfhVjRb+uheRdnFViMZ4CcULzj1XhPWYtGEVNBZ0TMmWJRWRAgMBAAECggEAW74UzceGh/Qgr1j2Ed6kCX76n4BBtxOP/OfIF5jZ1McNncnVDoYqa9/iTDTPhtkslt7GAHJmISMhHeOc7KIEBaEOgvbho7o92lSOf6yNRPcn1kKdkQzfodfdwBIUQmc20n4qdR8ft92e8LqgmO7em+d2lWoacrNH6SB5NMLSqGbWOQYju3RvqwlLh4MyeAa9gf7wu2d0/g6eJJncGQDyajYtD00AInyn2Cu+sfC4Tn0IajWH8IyD9N7wrNEca44w7eZ6NgaJfovaSM5jU4lYrgUSPeskxuCxf/P4oH9uQmpFTuDpDhNZqPBGZwdPPGle9IjjMbXUXdRKzPnF4Kcl7QKBgQD/BcENYsewPhOjtEfpcNS5iuyONPud0xTNqp2U1ZjcfRDbV0B9T1mTnwui5P2e8EAAA8u6s929N9l2+2eGN7bq6K6slKLHYSDG0zUoSjFVngqQzLC67/2qu1raVSM1WpLdANx+LtUx3THiHNYj5KknHTq8kNFk7Qq56dFQ/u7i/wKBgQDaBkxg/FY9EKh3UOo6cVFBRKlkye3upUzDSxDCoWwWxnO3y4e0CZAxbGYU8iZBXXPNw5K4lFwf3E9Y2Kyu0WiztMpnJMDO+lel1anwO1QRtDHJCXJPtDDld7I44Q4wvbLBN51UTAQPe1rPULVXrKfJ0OgBzIRkHJ1R6bxtXpRXbwKBgQCJin7uS0JLyY8qEYdfXd09HLIsmGLEYh2sNsK6jODeug0nX02GyA8V0QejmUE4QXcjCukMDwoejUqaI0lYWCAtXcUnixqn0bitwye+TRWCibRFGECQ8fKr7FQ5wQU2N11SGK7S10tgk13eB5Nu1FpuoBMXtDta5YWNc4/S0Uvh3QKBgQC6m1tyQ2gYmhJnFVV1Mhom7/rAbmj8snSyTqSIwZr/H1pZ/JUozmqhMrNoyB1gIvmEKxmAbFMxXeJ4G/QpKMkhzuLSR03Tmce9A9SQ7ma1RHK8LB6wA306Wimrr0zzANpnsA8z4GA1VBJUkTK1WOy/utNo/sBt42PvgUwqnCIBdwKBgGbNLvkmyPw2vek23fsYgqWM/3rLfr+oeLxxSQH/CAcomWI4O0Jd8H8s9Fo4qWptiN6t6aOj+mpH+hs0rgla73mBc0YGB/qtIWIK6C+4CZO8gwMLrdunSxNJH9uONfiyzjfpI/14YMOzwl/S51A/7ARSnCDX76zYbkikJKm1Pnd+",
     "secret": "304421f1e313c2997de0a6c93806146bc1377603cb6964591de88320692d6415",
     "leave_on_shutdown": false,
-    "listen_multiaddress": "/ip4/0.0.0.0/tcp/9096",
+    "listen_multiaddress": "/ip4/0.0.0.0/tcp/10096",
     "state_sync_interval": "10m0s",
     "ipfs_sync_interval": "2m10s",
     "replication_factor_min": -1,
@@ -17,8 +17,8 @@
   "consensus": {
     "raft": {
       "init_peerset": [],
-      "wait_for_leader_timeout": "15s",
-      "network_timeout": "10s",
+      "wait_for_leader_timeout": "156s",
+      "network_timeout": "100s",
       "commit_retries": 1,
       "commit_retry_delay": "200ms",
       "backups_rotate": 6,
@@ -56,7 +56,7 @@
   },
   "ipfs_connector": {
     "ipfshttp": {
-      "proxy_listen_multiaddress": "/ip4/127.0.0.1/tcp/9095",
+      "proxy_listen_multiaddress": "/ip4/127.0.0.1/tcp/10095",
       "node_multiaddress": "/ip4/127.0.0.1/tcp/5001",
       "connect_swarms_delay": "30s",
       "proxy_read_timeout": "0s",
