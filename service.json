@@ -1,8 +1,8 @@
 {
-  "cluster": {
-    "id": "QmRQSCCgugicTGUZihbUzuLzuGf7DEKp35ePwpcDDJ8kGB",
+  "cluster": {  
+    "id": "QmRZ2akNoyeerxFdHZU8AVUfBkaAmqeXvkeShVsDVmBz4V",
     "peername": "LAPTOP-6QU7RMTR",
-    "private_key": "CAASpwkwggSjAgEAAoIBAQCq0TVcS95vf+VjM161VuoSFkA3Ke7X9wpdmryh5c88Z1dlX4UMMH5sGOE4XT0sar/i3WNCxMitcYeNKWSt7xtObrHB8X9YK4E8zU8opWwWt1zaXc+B1v/6NeOSPuvlNPAGb/4yGw/QZU42TBo1czTDeIiQPTNaDtAB29dAHyHVc5KH0NMi2Oh5NX32NHw71xjli+toeD1LXDtWCZkaPEU7eZXz89sVFBkjHn6LmMy9Su4p31GR7b68lX6UpLGaRYy3Ybegc07Z4k6nW1Zyp06eUjBgDW5OBGM+1UuKZqg+pvFNyCKNJO5VOBTl5Jofjvq+CwCKFvpxKFm7ikNDT6G3AgMBAAECggEBAINdy1zE2DcFtALbgc2SHwdz50TFUfLzARzFoKYdl4fLrfG/SRH7xW4aoDJ5uk8LdbDiM7Eop3CD7AxKtivxxB1IkhomQJotMwHwnx0SQxMhRx6EoM4o68mgYfiZvU8TrDg3LtWX7EyHbGPjmRBcHkrpypSrDHAJDj0vtdWRW7LMIjE9tP8up0O5spgAzaiYDobW46qmrwWmXrBMlOkwWfRwaXZUNSbncYjiZ5Psa1j48iPpklbqRWHbVMCdAV+YkcsgBLdYJd9UKIY3Ig6eUKNCuz5uX9eKMZQAEjzSkCv4YamTm0juYpmFUCV8J/A2p3CJ8UO8IDr8cc7mO/Boc/kCgYEAyzmUsliMGCp11zf9Lj5MSQpY4lC58UCt5RIytLVkCJFQ0+QpIX3t+YgM4wUmh5r0NYMv0d8peDVVo6Y4Xl8zBau3Bui1pMRANFEZhc7hlLx4TKKjWSRvKskY5MIRGU72DLC1J3Y3SE3hZNKmLfnooGJ0JiEc3EIbTtV/+NS6eP0CgYEA1y0owngHJO0dfoRLj/5Q05HY+5BdKv0/2y5NTdH/KenBO6U11YQB2acGkrDQAaoOIglSPLcwCSEoXZcyuz2pwB9w+Gji0CLMa0IEmSucPhExbZxR4Ork+Xx3vm5OJdF2I1E6rQyMSAwqFAvYzfYvqEsDgTRfyirH638woT5VLcMCgYB2Avz3R/YqflWp4chzFxgjfg+5dFlV4FJa6GNrjr4FP6VpNmAwI7mSos+g8Te7nV7cyE53mBizxnzxqC+plazCSUHikDYS9Se3ebTRgB58yakuD2+97yti9B4xkQRu5ux42BCKVtqpcRhG/RAlOK8+m42JKsdgnD7RW6eRrq6OXQKBgHWD5E7Q3pX8Ka9+8QWjDuF9NdOt9DQWO1mo3+8wUPrC/xVkFRKXFauY3K4ggnlmNnHARXmDUmiqAzGZ8crw0lRq13fTUIv7dUjetUQx3RLIsQX76Xu8zXCz2XHXLDbbPnnrUvBPeg2fFxv7nFxfp4dx8GgQAoCW/LhQrm5hbIOhAoGAPfwYRyp3MNLSiuyy1CHU794Eg+cpa4AUFxEf6fsz5Aom7qVF8n8GL1q8f5D0yZw76CRrvQk2OsJTRRMTQ/7QZEq1QNyGvtu3hf6jWeqpGFEff3Ayc6Gco+tyknKHCAeU+cDE54/8FPXBbnOXXYPRsNKF7nXhhLuBYja+sU+H3D4=",
+    "private_key": "CAASqAkwggSkAgEAAoIBAQCqEepAOsT3BZjk3bAIuX9hTW8gmBQdz+2oit73g0f8aOE4pkqluTvxbVHqLj4NF5BnfEFInV4QnInbsIRkOpPn8f2upGSDhKHrwYLBlymjmbRpW5j0Wo5bVmtlk4Du5vO0C8kRkxFFTdnVkGjrDmD5aYjM2KWDhssKmGS6sVDa5j00SA6YHhpFl+Q70D1gzuvi1gmSZYpcMo3i5oONsYds0ELttgdVOwfkX4cKBAcxEFXDrFECZw4BN1okG40KOu/4XIDxJJBNvZLAMOGo/L/eUtY+ELgx+3J5170mfJjdJXRAs3/pQgSh/+jBswdolMzEeRA1SES1Noe4hJB4Y8HfAgMBAAECggEADVH74+32cVaJ5BsM55IHzQowkv/2S2N2vMWrsv0gTT+1rCcyH4rDjCRAzzOx/nqC/+f2gQZ6UJjCH2fS5rrDzN3iPaR4juh7eiic4ibBxyOJwtq+vxy8m6DIJpuH9K44Fjj6FZtMNf5j+lsmLIriw4Ylhc3OIOAU1Q6cjRbIO2y+WithW3tYNk5/QA/K+otYSAe0J5iFkf7fGJEiFYp1L0yzjTS5jleHeA+khST+S6It/mdDWUDGAdKiGfsnGuFXpdsaYNFdO9Av2GcShqsQMCdXb06g6qHbW0M3JoBnaKeEA2hRMUSQ8OGWVEjZqyECjtzF/VakaaMZGrNraqLTKQKBgQDWHfaT2BKqGa00uNJ5/in0LySzUNUCbMQ+ZaB02X6p+Y0ggq65X4K02S+gDn6QTK+wLLmUBhBCgSwA1lxRRM2um+LZbG70554Bt3ZZ9cZGWgsPeYe5VaI0R+v9nCRvRZs7/zsOnTBSH7Pq4cd9qiFhSY5lBNJPCwdTohmhxQhzRQKBgQDLVkTvXGmdRkOuiUXtj7a7L9QKImjsWryB47O/Eog2SWyWLcUvL0UGzsjvRahN0Kdix7YnihK0bc8BfvWXVkleugzRqlOnNcZo9NVQzWqzAoiIWAHtZF1VR8lqK9tItcRWu3G6yAQ4mJ0gC1nPd8vcZloxZJjInX23kFT7dyXA0wKBgGCtYMN6gVrqgwlWFjrc5uaJTsHkUnlo0Ob3jg6UkZt/wRgXyXqLxIGRuu5C/SR8a6tZVmWeo0LT/iFWqJJNRa18V14ilqrf1bkitD6EOYVUbMAM+JpXLwj6HHUDRnQzcpcRdAHyOXorNFpunVuBMNczlibImYj1CtbZT0d6pokdAoGBAJ1Uyg//DEVB+dqRosbW3UfnEQUqbM78wkEqg4kDeNuwYlGtZpZE1/8Vf0oMNtbG7M00xA/B+QkcsgBxUOvhOvINuR990C5gIH5Ter6DwtxxyFze49bgQota+VCqUIjpA9ssPCqO2x1DkMgboEk0Y0vM8lqngMQxf/XJuse8AD07AoGBAMK6LW1fyL+xWn+/WgQjwSOyuk5RjjYynwOo3cyzXECeh0etiOs4eeDoqqyIPX3lQOXzQ2fmmsogsKN2eeUW/1yZEue4G1A4A9t/Khkf8v1FC0HxVKAfOhjB0ep6ZetgjdZYiWWj5ofeQyio3SJnrtgqPoskj3+jJTB2Oht/COaa",
     "secret": "304421f1e313c2997de0a6c93806146bc1377603cb6964591de88320692d6415",
     "leave_on_shutdown": false,
     "listen_multiaddress": "/ip4/0.0.0.0/tcp/9096",
@@ -17,14 +17,14 @@
   "consensus": {
     "raft": {
       "init_peerset": [],
-      "wait_for_leader_timeout": "156s",
-      "network_timeout": "150s",
+      "wait_for_leader_timeout": "15s",
+      "network_timeout": "10s",
       "commit_retries": 1,
       "commit_retry_delay": "200ms",
       "backups_rotate": 6,
-      "heartbeat_timeout": "15s",
-      "election_timeout": "155s",
-      "commit_timeout": "500ms",
+      "heartbeat_timeout": "1s",
+      "election_timeout": "1s",
+      "commit_timeout": "50ms",
       "max_append_entries": 64,
       "trailing_logs": 10240,
       "snapshot_interval": "2m0s",
@@ -56,8 +56,8 @@
   },
   "ipfs_connector": {
     "ipfshttp": {
-      "proxy_listen_multiaddress": "/ip4/127.0.0.1/tcp/10095",
-      "node_multiaddress": "/ip4/127.0.0.1/tcp/4001",
+      "proxy_listen_multiaddress": "/ip4/127.0.0.1/tcp/9095",
+      "node_multiaddress": "/ip4/127.0.0.1/tcp/5001",
       "connect_swarms_delay": "30s",
       "proxy_read_timeout": "0s",
       "proxy_read_header_timeout": "5s",
